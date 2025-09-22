@@ -11,17 +11,11 @@ Manual para poder funcionar perfeitamente no seu computador:
         Exemplo: NHA_044_O Santo Espírito.mp4
                  NHA_144_Foi na Cruz.mp4</pre>
                  
-5)Depois de colado os hinos dentro do diretório "HinarioAdventista", abra o "NovoHinarioAdventista.exe" e você terá todos os hinos listados.
-
-6)Aproveite!
-
-
-Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:
-
+5)Depois de colado os hinos dentro do diretório "HinarioAdventista", abra o "NovoHinarioAdventista.exe" e você terá todos os hinos listados.<br>
+6)Aproveite!</br>
+<p>Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:</p>
 https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link
+<br>
 
-
-Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é 51981725802 - Daniel Bueno Moreira.
-
-
+Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.<br>
 Obrigado.
