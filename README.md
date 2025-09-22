@@ -16,7 +16,8 @@ Exemplo: NHA_044_O Santo Espírito.mp4
 
 <p>Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:</p>
 https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link
-<br><p>Caso precise de um manual visual, acesse este link: https://danielmoreiraprogramador.github.io/NovoHinarioAdventista/ </p>
+
+<p>Caso precise de um manual visual, acesse este link: https://danielmoreiraprogramador.github.io/NovoHinarioAdventista/ </p>
 <p>Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.</p>
 
 Minhas redes sociais: https://danielmoreiraprogramador.github.io/quemsoueu/
