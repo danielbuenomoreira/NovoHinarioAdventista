@@ -17,4 +17,6 @@ Exemplo: NHA_044_O Santo Espírito.mp4
 https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link
 
 <br><p>Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.</p>
-Obrigado.
+
+Minhas redes sociais: https://danielmoreiraprogramador.github.io/quemsoueu/
+<p>Obrigado.</p>
