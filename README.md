@@ -7,7 +7,7 @@ Manual para poder funcionar perfeitamente no seu computador:
 2)Na mesma pasta do "NovoHinarioAdventista.exe", faça um diretório com o nome "HinarioAdventista";<br>
 3)Cole o arquivo "HASD.jpg" e "IASD.png" dentro da pasta "HinarioAdventista" para ter a capa e o ícone no seu aplicativo;<br>
 4)Cole todos os hinos que você deseja ter no seu aplicativo dentro da pasta "HinarioAdventista" no seguinte formato:<br>
-<pre>    >>> NHA_(número do hino)_(nome do hino).mp4
+<pre>   NHA_(número do hino)_(nome do hino).mp4
         Exemplo: NHA_044_O Santo Espírito.mp4
                  NHA_144_Foi na Cruz.mp4</pre>
                  
