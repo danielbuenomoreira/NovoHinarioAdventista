@@ -1,7 +1,7 @@
 # NovoHinarioAdventista
 <p>Aplicativo que desenvolvi em Python (e converti para executável Windows) para ter todo o Novo Hinário Adventista do Sétimo Dia offline em ordem com letra e música em vídeo .mp4 para poder ser usado como multimídia em cultos na igreja ou em casa, de graça.</p>
 
-Manual para poder funcionar perfeitamente no seu computador:
+Manual para poder funcionar perfeitamente no seu computador:<br>
 
 1)Baixe e cole em algum diretório do seu computador com Windows o "NovoHinarioAdventista.exe". Este será o diretório raiz do hinário;<br>
 2)Na mesma pasta do "NovoHinarioAdventista.exe", faça um diretório com o nome "HinarioAdventista";<br>
@@ -13,8 +13,11 @@ Exemplo: NHA_044_O Santo Espírito.mp4
                  
 5)Depois de colado os hinos dentro do diretório "HinarioAdventista", abra o "NovoHinarioAdventista.exe" e você terá todos os hinos listados em ordem e com opção de busca.<br>
 6)Aproveite!</br>
+
 <p>Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:</p>
 https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link
+
+Caso precise de um manual visual, acesse este link: https://danielmoreiraprogramador.github.io/NovoHinarioAdventista/ <br>
 
 <br><p>Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.</p>
 
