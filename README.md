@@ -1,5 +1,5 @@
 # NovoHinarioAdventista
-<p>Aplicativo que desenvolvi em Python (e converti para executável Windows) para ter todo o Novo Hinário Adventista do Sétimo Dia offline em ordem com letra e música em vídeo .mp4 para poder ser usado como multimídia em cultos na igreja ou em casa de graça.</p>
+<p>Aplicativo que desenvolvi em Python (e converti para executável Windows) para ter todo o Novo Hinário Adventista do Sétimo Dia offline em ordem com letra e música em vídeo .mp4 para poder ser usado como multimídia em cultos na igreja ou em casa, de graça.</p>
 
 Manual para poder funcionar perfeitamente no seu computador:
 
