@@ -15,7 +15,6 @@ Exemplo: NHA_044_O Santo Espírito.mp4
 6)Aproveite!</br>
 <p>Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:</p>
 https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link
-<br>
 
-Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.<br>
+<p>Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.</p>
 Obrigado.
