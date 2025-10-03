@@ -21,7 +21,6 @@ Para começar, você precisará de dois itens: o programa e os vídeos dos hinos
 
 1.  **O Programa (`.exe`):**
     * Baixe a versão mais recente do programa na [**página de Releases deste repositório**](https://github.com/danielbuenomoreira/NovoHinarioAdventista/releases).
-    * *(Dica: A página de "Releases" do GitHub é o local ideal para disponibilizar executáveis como o seu.)*
 
 2.  **Os Hinos em Vídeo (`.mp4`):**
     * Eu fiz o upload de todos os 610 hinos em alta qualidade. Você pode baixá-los gratuitamente através deste link do Google Drive:
