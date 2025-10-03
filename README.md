@@ -15,11 +15,17 @@ Desenvolvi esta aplicação em Python com o objetivo de auxiliar igrejas, pequen
 
 ---
 
-### 📥 Download (Programa + Conteúdo)
+### 📥 Downloads Essenciais
 
-Para simplificar, todo o material necessário — **o programa `.exe`**, os **600 hinos (+ bônus)** em vídeo, a **capa** e o **ícone** — está disponível em um único local.
+Para o programa funcionar, você precisará baixar duas coisas de locais diferentes:
 
-* ➡️ **[Clique aqui para baixar TUDO (Google Drive)](https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link)**
+1.  **O Programa (`.exe`):**
+    * Baixe a versão mais recente do programa diretamente da página de Releases aqui no GitHub.
+    * ➡️ **[Baixar o Programa (Página de Releases)](https://github.com/danielbuenomoreira/NovoHinarioAdventista/releases)**
+
+2.  **O Conteúdo (Hinos e Imagens):**
+    * Todos os **600 hinos do novo hinário (+ bônus)** em vídeo, junto com a **capa** e o **ícone**, estão disponíveis no Google Drive.
+    * ➡️ **[Baixar Conteúdo (Google Drive)](https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link)**
 
 ---
 
@@ -27,13 +33,13 @@ Para simplificar, todo o material necessário — **o programa `.exe`**, os **60
 
 Siga estes passos com atenção para que o programa funcione perfeitamente:
 
-1.  **Baixe o Conteúdo:** Acesse o link do Google Drive acima e baixe todos os arquivos para uma pasta em seu computador.
+1.  **Baixe os Arquivos:** Faça o download do **programa** da página de Releases e de **todo o conteúdo** do link do Google Drive.
 
-2.  **Crie a Pasta Principal:** Crie uma nova pasta em qualquer lugar do seu computador (ex: `C:\Hinario`). Mova o arquivo `NovoHinarioAdventista.exe` para dentro dela.
+2.  **Crie a Pasta Principal:** Crie uma nova pasta em qualquer lugar do seu computador (ex: `C:\Hinario`). Mova o arquivo `NovoHinarioAdventista.exe` que você baixou para dentro dela.
 
 3.  **Crie a Pasta dos Hinos:** Dentro da pasta principal (ao lado do `.exe`), crie uma nova pasta com o nome exato `HinarioAdventista`.
 
-4.  **Organize os Arquivos:** Mova todos os outros arquivos que você baixou (os vídeos `.mp4`, a capa `HASD.jpg` e o ícone `IASD.png`) para dentro da pasta `HinarioAdventista`. **É fundamental que os vídeos mantenham o formato de nome correto:**
+4.  **Organize o Conteúdo:** Mova todo o material que você baixou do **Google Drive** (os vídeos `.mp4`, a capa `HASD.jpg` e o ícone `IASD.png`) para dentro da pasta `HinarioAdventista`. **É fundamental que os vídeos mantenham o formato de nome correto:**
     > `NHA_(número do hino)_(nome do hino).mp4`
     >
     > **Exemplos:**
