@@ -1,24 +1,75 @@
-# NovoHinarioAdventista
-<p>Aplicativo que desenvolvi em Python (e converti para executável Windows) para ter todo o Novo Hinário Adventista do Sétimo Dia offline em ordem com letra e música em vídeo .mp4 para poder ser usado como multimídia em cultos na igreja ou em casa, de graça.</p>
+# 🎵 Novo Hinário Adventista (Offline)
 
-Manual para poder funcionar perfeitamente no seu computador:<br>
+Olá e seja bem-vindo! Meu nome é **Daniel Moreira**.
 
-1)Baixe e cole em algum diretório do seu computador com Windows o "NovoHinarioAdventista.exe". Este será o diretório raiz do hinário;<br>
-2)Na mesma pasta do "NovoHinarioAdventista.exe", faça um diretório com o nome "HinarioAdventista";<br>
-3)Cole o arquivo "HASD.jpg" e "IASD.png" dentro da pasta "HinarioAdventista" para ter a capa e o ícone no seu aplicativo;<br>
-4)Cole todos os hinos que você deseja ter no seu aplicativo dentro da pasta "HinarioAdventista" no seguinte formato:<br>
-<pre>         NHA_(número do hino)_(nome do hino).mp4
-Exemplo: NHA_044_O Santo Espírito.mp4
-         NHA_144_Foi na Cruz.mp4</pre>
-                 
-5)Depois de colado os hinos dentro do diretório "HinarioAdventista", abra o "NovoHinarioAdventista.exe" e você terá todos os hinos listados em ordem e com opção de busca.<br>
-6)Aproveite!</br>
+Desenvolvi esta aplicação em Python com o objetivo de auxiliar igrejas, pequenos grupos e famílias a terem um acesso fácil e totalmente offline ao Novo Hinário Adventista do Sétimo Dia, com letra e música em vídeo. A ideia é fornecer uma solução de multimídia gratuita e de alta qualidade para os momentos de louvor.
 
-<p>Eu fiz upload de todos os hinos em MP4 no meu Google Drive gratuitamente. O link é o seguinte:</p>
-<p> https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link </p>
+---
 
-<p>Caso precise de um manual visual, acesse este link: https://danielbuenomoreira.github.io/NovoHinarioAdventista/ </p>
-<p>Caso deseje me dar um agrado e apoiar meu trabalho, meu pix é <strong>51981725802</strong> - Daniel Bueno Moreira.</p>
+### ✨ Funcionalidades
 
-Minhas redes sociais: https://danielbuenomoreira.github.io/QuemSouEu/
-<p>Obrigado.</p>
+* **Acesso 100% Offline:** Use na igreja ou em casa sem depender de conexão com a internet.
+* **Letra e Música em Vídeo:** Todos os hinos em formato `.mp4`, prontos para serem projetados como multimídia.
+* **Organização e Busca:** Os hinos são listados em ordem numérica e a aplicação inclui uma função de busca para encontrar hinos rapidamente pelo nome ou número.
+* **Gratuito e Sem Anúncios:** Criado para ser uma ferramenta de auxílio ao ministério, livre de custos ou distrações.
+
+---
+
+### 📥 Downloads Essenciais
+
+Para começar, você precisará de dois itens: o programa e os vídeos dos hinos.
+
+1.  **O Programa (`.exe`):**
+    * Baixe a versão mais recente do programa na [**página de Releases deste repositório**](https://github.com/danielbuenomoreira/NovoHinarioAdventista/releases).
+    * *(Dica: A página de "Releases" do GitHub é o local ideal para disponibilizar executáveis como o seu.)*
+
+2.  **Os Hinos em Vídeo (`.mp4`):**
+    * Eu fiz o upload de todos os 610 hinos em alta qualidade. Você pode baixá-los gratuitamente através deste link do Google Drive:
+    * ➡️ **[Baixar todos os hinos (Google Drive)](https://drive.google.com/drive/folders/1gAgc_8F105bsm8nVj1fg6aQDAGfBryJ0?usp=drive_link)**
+
+---
+
+### 🚀 Como Instalar e Usar (Manual)
+
+Siga estes passos com atenção para que o programa funcione perfeitamente:
+
+1.  **Crie a Pasta Principal:** Crie uma pasta em qualquer lugar do seu computador (ex: `C:\Hinario`). Baixe e cole o arquivo `NovoHinarioAdventista.exe` dentro dela.
+
+2.  **Crie a Pasta dos Hinos:** Dentro da pasta principal, ao lado do `.exe`, crie uma nova pasta com o nome exato `HinarioAdventista`.
+
+3.  **Adicione os Arquivos de Imagem:** Baixe os arquivos `HASD.jpg` (capa) e `IASD.png` (ícone) deste repositório e cole-os dentro da pasta `HinarioAdventista`.
+
+4.  **Adicione os Hinos:** Cole todos os vídeos `.mp4` que você baixou do Google Drive para dentro da pasta `HinarioAdventista`. **É fundamental que os arquivos mantenham o formato de nome correto:**
+    > `NHA_(número do hino)_(nome do hino).mp4`
+    >
+    > **Exemplos:**
+    > * `NHA_044_O Santo Espírito.mp4`
+    * `NHA_144_Foi na Cruz.mp4`
+
+5.  **Pronto!** Agora é só abrir o `NovoHinarioAdventista.exe`. Todos os hinos que você adicionou aparecerão na lista, prontos para serem usados. Aproveite!
+
+* *Precisa de um guia mais visual? Acesse o **[Manual com Imagens aqui](https://danielbuenomoreira.github.io/NovoHinarioAdventista/)**.*
+
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Python
+* **Interface Gráfica:** (Ex: Tkinter, PyQt - *você pode editar e colocar a que usou*)
+* **Executável:** Convertido para `.exe` usando a biblioteca PyInstaller.
+
+---
+
+### 💖 Apoie o Projeto
+
+Se este projeto foi útil para você ou sua igreja, considere apoiar meu trabalho com uma doação voluntária. Qualquer valor me incentiva a continuar desenvolvendo e mantendo soluções como esta.
+
+* **Chave PIX:** `51981725802` (Daniel Bueno Moreira)
+
+---
+
+### 🌐 Conecte-se Comigo
+
+* **Minhas Redes Sociais e Contato:** [danielbuenomoreira.github.io/QuemSouEu/](https://danielbuenomoreira.github.io/QuemSouEu/)
+
+Obrigado pela visita e pelo seu interesse no projeto!
