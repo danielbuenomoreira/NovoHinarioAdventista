@@ -55,7 +55,7 @@ Siga estes passos com atenção para que o programa funcione perfeitamente:
 ### 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python
-* **Interface Gráfica:** (Ex: Tkinter, PyQt - *você pode editar e colocar a que usou*)
+* **Interface Gráfica:** Tkinter
 * **Executável:** Convertido para `.exe` usando a biblioteca PyInstaller.
 
 ---
